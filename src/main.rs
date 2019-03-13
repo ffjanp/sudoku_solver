@@ -93,7 +93,6 @@ impl Sudoku {
 
 
 fn main() {
-    println!("Hello, world!");
     let mut sudoku = Sudoku {
         base :3,
         size: 9,
